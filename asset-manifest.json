@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/israel-rocket-area/static/css/main.6c2aeea9.css",
+    "main.js": "/israel-rocket-area/static/js/main.14b47a9e.js",
+    "static/js/661.9951ca13.chunk.js": "/israel-rocket-area/static/js/661.9951ca13.chunk.js",
+    "static/media/jerusalem_distance.png": "/israel-rocket-area/static/media/jerusalem_distance.bac81e957ebb29a6fb29.png",
+    "static/media/tel_aviv_distance.png": "/israel-rocket-area/static/media/tel_aviv_distance.87f019b1956f8a3407fd.png",
+    "static/media/ashkelon_distance.png": "/israel-rocket-area/static/media/ashkelon_distance.f33641699a8f546c1da2.png",
+    "static/media/nahal_oz_distance.png": "/israel-rocket-area/static/media/nahal_oz_distance.406834af914f18c2a386.png",
+    "static/media/beeri_distance.png": "/israel-rocket-area/static/media/beeri_distance.9d2802bef9fed5318644.png",
+    "static/media/logo.svg": "/israel-rocket-area/static/media/logo.517fc583554a578e37192f200c94b94d.svg",
+    "index.html": "/israel-rocket-area/index.html",
+    "main.6c2aeea9.css.map": "/israel-rocket-area/static/css/main.6c2aeea9.css.map",
+    "main.14b47a9e.js.map": "/israel-rocket-area/static/js/main.14b47a9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c2aeea9.css",
+    "static/js/main.14b47a9e.js"
+  ]
+}
