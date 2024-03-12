@@ -1,1 +1,0 @@
-# israel-rocket-area
